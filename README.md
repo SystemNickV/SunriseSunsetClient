@@ -84,6 +84,6 @@ This project is not fully tested and needs further development. The API itself i
 
 ## 🗂 References
 
-- [Examples](https://github.com/SystemNickV/SunriseSunset/examples)
+- [Examples](https://github.com/SystemNickV/SunriseSunsetClient/tree/master/examples/)
 
 [original website]: https://sunrise-sunset.org
